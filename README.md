@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Sabitri</h1>
 A passionate full stack developer, learning and having fun on the way
 
-<h3>I’m currently working on </h3><hr style="height:1px;border:none;color:#333;background-color:#333;">
+<h3><u>I’m currently working on </u></h3>
  <ul><li>A Laravel project</li></ul>
 
 <h3>I’m currently learning </h3><hr>
