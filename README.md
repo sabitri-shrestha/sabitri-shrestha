@@ -1,20 +1,20 @@
-<h1 align="center">Hi 👋, I'm Sabitri</h1>
-<h3 align="center">A passionate full stack developer, learning and having fun on the way.</h3>
+<h1>Hi 👋, I'm Sabitri</h1>
+A passionate full stack developer, learning and having fun on the way
 
-<h4>I’m currently working on </h4> :<br> 
+<h3>I’m currently working on </h3> 
  A Laravel project
 
-I’m currently learning :
--> to get my AWS developer associate certificate**
+<h3>I’m currently learning</h3>
+- to get my AWS developer associate certificate**
 
-I’m looking to collaborate on :
--> projects that has real value in peoples's lives**
+<h3>I’m looking to collaborate on</h3>
+- projects that has real value in peoples's lives**
 
-How to reach me: 
--> sabitri.shrestha03@gmail.com
+<3>How to reach me</h3>
+- sabitri.shrestha03@gmail.com
 
-What I like to do (besides coding): 
--> painting, plants and walks besides coding**
+<h3>What I like to do (besides coding)</h3>
+- painting, plants and walks besides coding
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
