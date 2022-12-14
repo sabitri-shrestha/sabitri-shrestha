@@ -1,10 +1,10 @@
 <h1>Hi 👋, I'm Sabitri</h1>
 A passionate full stack developer, learning and having fun on the way
 
-<h3><u>I’m currently working on </u></h3>
+<h3><u>I’m currently working on</u></h3>
  <ul><li>A Laravel project</li></ul>
 
-<h3>I’m currently learning </h3><hr>
+<u><h3>I’m currently learning </h3></u>
  <ul><li>to get my AWS developer associate certificate</li></ul>
 
 <h3>I’m looking to collaborate on </h3><hr>
