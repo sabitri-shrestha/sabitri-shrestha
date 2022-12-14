@@ -1,15 +1,20 @@
-<h1 align="center">Hi 👋, I'm Sabitri <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hi 👋, I'm Sabitri</h1>
 <h3 align="center">A passionate full stack developer learning and having fun on the way.</h3>
 
-- 🔭 I’m currently working on my **Laravel project**
+I’m currently working on: 
+-> A Laravel project
 
-- 🌱 I’m currently learning **to get my AWS developer associate certificate**
+I’m currently learning :
+-> to get my AWS developer associate certificate**
 
-- 👯 I’m looking to collaborate on **projects that has real value in peoples's lives**
+I’m looking to collaborate on :
+-> projects that has real value in peoples's lives**
 
-- 📫 How to reach me: **sabitri.shrestha03@gmail.com**
+How to reach me: 
+-> sabitri.shrestha03@gmail.com
 
-- ⚡ What I like to do: **painting, plants and walks besides coding**
+What I like to do (besides coding): 
+-> painting, plants and walks besides coding**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
@@ -26,7 +31,7 @@
     <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="html5" width="40" height="40"/> 
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.pn" alt="css3" width="40" height="40"/> 
+    <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="css3" width="40" height="40"/> 
   </a> 
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="python" width="40" height="40"/> 
