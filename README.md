@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<!--
-**sabitri-shrestha/sabitri-shrestha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I am a full stack developer learning and having fun on the way.
 
