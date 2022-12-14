@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sabitri</h1>
-<h3 align="center">A passionate full stack developer learning and having fun on the way.</h3>
+<h3 align="center">A passionate full stack developer, learning and having fun on the way.</h3>
 
-I’m currently working on: 
--> A Laravel project
+<p>I’m currently working on :</p><hr><br> 
+ A Laravel project
 
 I’m currently learning :
 -> to get my AWS developer associate certificate**
