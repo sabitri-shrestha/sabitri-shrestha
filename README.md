@@ -1,14 +1,12 @@
 <h1>Hi 👋, I'm Sabitri</h1>
-A passionate full stack developer, learning and having fun on the way
+A passionate full stack developer, learning and having fun on the way.
 
 <h3>I’m currently working on</h3>
- <ul><li>A Laravel project</li></ul>
-
-<h3>I’m currently learning </h3>
- <ul><li>to get my AWS developer associate certificate</li></ul>
+ <ul><li>A project that is an Ambassador App using VueJS, Nuxt.js and Laravel</li></ul>
 
 <h3>I’m looking to collaborate on </h3>
-<ul><li>projects that has real value in peoples's lives </li></ul>
+<ul><li>projects that has real value in peoples's lives</li></ul>
+<ul><li>projects that are exciting</li></ul>
 
 <h3>How to reach me</h3>
 <ul><li>sabitri.shrestha03@gmail.com</ul></li>
